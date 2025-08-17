@@ -22,11 +22,11 @@
         "mifedha1a2418a4fd": {},
         "userPoolGroups": {}
       },
-      "api": {
-        "mifedha1a": {}
-      },
       "storage": {
         "MifedhaPhotos": {}
+      },
+      "api": {
+        "mifedha1a": {}
       }
     }
   }
